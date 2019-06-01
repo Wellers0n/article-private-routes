@@ -27,4 +27,4 @@ Your app is ready to be deployed!
 
 # Article 
 
-on here:
+on here: https://medium.com/@wellerson.coffee/private-routes-in-react-with-react-router-dom-a570d020fe89
